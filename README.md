@@ -1,18 +1,49 @@
+# Supply Chain Distribution Center Analysis
 
-# To view more Data Analysis KPI'S you can refer the Data Analysis word Document that i have attached 
+## Overview
+This project analyzes supply chain distribution center data to evaluate sales performance, forecast accuracy, inventory trends, and business KPIs. The analysis helps identify top-performing products and supports data-driven decision-making.
 
-# Screenshots
+## Objectives
+- Analyze sales performance
+- Evaluate forecast accuracy
+- Identify top-selling products
+- Compare forecasted and actual sales
+- Analyze holiday sales trends
 
-# Top 10 and Top Five sold items
-<img src="https://github.com/puthranroshan/Supplychain-Distribution-centers-Data-Analysis/blob/main/Screenshot%202024-08-01%20201950.png" width="100%"></img>
+## Tools & Technologies
+- Tableau
+- Microsoft Excel
+- SQL
+- Python (Pandas, NumPy)
 
-# Forecast Accuracy of each item 
-<img src="https://github.com/puthranroshan/Supplychain-Distribution-centers-Data-Analysis/blob/main/Screenshot%202024-08-01%20201933.png" width="100%"></img>
+## Project Files
+- Book1.twb
+- data analysis.ipynb
+- DATA ANALYSIS.docx
+- Data analysis.pptx
 
+## Dashboard Screenshots
 
-# Total sales in Holidays
-<img src="https://github.com/puthranroshan/Supplychain-Distribution-centers-Data-Analysis/blob/main/Screenshot%202024-08-01%20201919.png" width="100%"></img>
+### Top 10 and Top 5 Sold Items
+![Top Selling Items](Screenshot%202024-08-01%20201950.png)
 
-# Comaprision of forecasted and actual sales 
-<img src="https://github.com/puthranroshan/Supplychain-Distribution-centers-Data-Analysis/blob/main/Screenshot%202024-08-01%20201839.png" width="100%"></img>
+### Forecast Accuracy of Each Item
+![Forecast Accuracy](Screenshot%202024-08-01%20201933.png)
 
+### Total Sales During Holidays
+![Holiday Sales](Screenshot%202024-08-01%20201919.png)
+
+### Comparison of Forecasted and Actual Sales
+![Forecast vs Actual](Screenshot%202024-08-01%20201839.png)
+
+## Key Insights
+- Identified top-selling products.
+- Compared forecasted and actual sales.
+- Evaluated forecast accuracy across products.
+- Analyzed holiday sales trends.
+- Built interactive dashboards for business insights.
+
+## Author
+**Antharya K**
+
+GitHub: https://github.com/Antharyakharvi
